@@ -82,4 +82,4 @@ Two APIs were developed:
 ## 6. Conclusion
 This project successfully demonstrated the end-to-end process of web scraping product reviews from Amazon, conducting sentiment analysis on those reviews, and creating APIs for easy access to this information. The analysis revealed valuable insights into customer sentiments regarding the iPhone 12.
 
-By Tejas Nikam
+By Akash Sakhare
