@@ -1,6 +1,3 @@
-# Amzaon-Reviews-Web-Scraping
-Amzaon-Reviews-Web-Scraping
-
 # Amazon-Reviews-Web-Scraping
 iPhone 12 Amazon Reviews Web Scraping and Sentiment Analysis
 
